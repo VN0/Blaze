@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:paddingLeft="20dp"
+    tools:context=".ui.CheckInfoActivity">
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/inficon"
+        android:src="@drawable/cube"
+        android:layout_marginTop="60dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/inficon"
+        android:layout_marginTop="20dp"
+        android:id="@+id/infotxt"
+        android:typeface="monospace"
+        android:text="Couldn't connect"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/infotxt"
+        android:typeface="monospace"
+        android:paddingRight="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/info"
+        android:text="There was a problem communicating with the servers."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:typeface="monospace"
+        android:textColor="@color/black"
+        android:layout_below="@id/info"
+        android:id="@+id/trygain"
+        android:paddingRight="20dp"
+        android:layout_marginTop="5dp"
+        android:text="Try again later."/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:id="@+id/infic"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/trygain"
+        android:src="@drawable/mobile"
+        android:layout_marginTop="50dp"/>
+
+</RelativeLayout>

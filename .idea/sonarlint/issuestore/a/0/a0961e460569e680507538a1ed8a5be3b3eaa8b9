@@ -1,0 +1,31 @@
+
+Lsquid:S1604¥"(Make this anonymous inner class a lambda(Åİ€úÿÿÿÿÿ8­øÎ‹±-
+Esquid:S1199¾"-Extract this nested code block into a method.(Ú¡Œ
+Ysquid:UnusedPrivateMethodĞ",Remove this unused private "signOut" method.(ìÉÓÌ8Şìß‰²-
+asquid:UnusedPrivateMethodî"/Remove this unused private "showDialog" method.(Ò»ß¸úÿÿÿÿ8‡à±-
+Psquid:S1197•"8Move the array designator from the variable to the type.(³Ûü¢
+osquid:S1301á"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8Şìß‰²-
+csquid:S1301¼"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Ğ¥ñüÿÿÿÿ8‡à±-
+Esquid:S1199¨"-Extract this nested code block into a method.(ñÙ¾Ú
+Gsquid:S1604Œ"(Make this anonymous inner class a lambda(»ıª©8­øÎ‹±-
+bsquid:UnusedPrivateMethodï"5Remove this unused private "buildNewChatroom" method.(œÍ ƒ8­¡à±-
+Fsquid:S1604¼"(Make this anonymous inner class a lambda(€›†P8­øÎ‹±-
+Jsquid:S1199™"-Extract this nested code block into a method.(¶»Ó«ÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck˜""Add a default case to this switch.(×ö³–úÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck§""Add a default case to this switch.(×ö³–úÿÿÿÿ
+hsquid:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+hsquid:S1301§"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+osquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÿåˆâüÿÿÿÿ8‡à±-
+jsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(àí«ù8‡à±-
+osquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ã»•€øÿÿÿÿ8‡à±-
+Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(½ÿÂ„üÿÿÿÿ
+gsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(®×ïÿÿÿÿÿ
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ
+Gsquid:S1604Ô"(Make this anonymous inner class a lambda(ªÎá8­øÎ‹±-
+Qsquid:S1199ç"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8‡à±-
+jsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(àí«ù8‡à±-
+osquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Äş“‹ûÿÿÿÿ8‡à±-
+Q"squid:SwitchLastCaseIsDefaultCheck¼""Add a default case to this switch.(ºÖ
+Lsquid:S1604ÿ"(Make this anonymous inner class a lambda(õÜâ‚øÿÿÿÿ8­øÎ‹±-
+|squid:CallToDeprecatedMethodÍ"GRemove this use of "setTimestampsInSnapshotsEnabled"; it is deprecated.(³™®åøÿÿÿÿ8­øÎ‹±-

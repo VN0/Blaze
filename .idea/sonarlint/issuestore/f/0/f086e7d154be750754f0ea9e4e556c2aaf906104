@@ -1,0 +1,13 @@
+
+?squid:S1185y"(Remove this method to simply inherit it.(Ôö§ó
+`squid:UselessImportCheck"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8ÈÉŒ²-
+isquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(Ú†Æá8¦£ùˆ²-
+vsquid:UselessImportCheck"FRemove this unused import 'com.bumptech.glide.request.RequestOptions'.(÷íöºúÿÿÿÿ8úìŠ²-
+Isquid:S1199q"-Extract this nested code block into a method.(°íäÿÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheckp""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Íı­—8¡¸‘²-
+dsquid:UselessImportCheck":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8ãİ‰²-
+Tsquid:S1068-"6Remove this unused "mImageListFragment" private field.(¤ä–à8—Œ²-
+nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(¢ªÒ²şÿÿÿÿ8¦£ùˆ²-
+gsquid:S1301p"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+ksquid:UselessImportCheck";Remove this unused import 'android.graphics.BitmapFactory'.(âàºÍûÿÿÿÿ8ŸŞŒ²-

@@ -1,0 +1,12 @@
+
+Esquid:S1199·"-Extract this nested code block into a method.(ÃŠÏ™
+Dsquid:S1604Y"(Make this anonymous inner class a lambda(Üàº”ùÿÿÿÿ
+>squid:S1659)"'Declare "mPassword" on a separate line.(ÿ¬Ù³
+@squid:S1604›"(Make this anonymous inner class a lambda(³Ö×•
+csquid:S1301°"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+Jsquid:S1199±"-Extract this nested code block into a method.(æÑ‡Ôûÿÿÿÿ
+tsquid:CallToDeprecatedMethodc"GRemove this use of "setTimestampsInSnapshotsEnabled"; it is deprecated.(³™®åøÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck°""Add a default case to this switch.(ºÖ
+?squid:S1604j"(Make this anonymous inner class a lambda(»ıª©
+Esquid:S1604¢"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+_squid:UselessImportCheck"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8Èš¾å°-

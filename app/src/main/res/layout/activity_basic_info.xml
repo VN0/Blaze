@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fafafa"
+    android:layout_height="match_parent">
+
+
+
+    <RelativeLayout
+        android:id="@+id/email_login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+
+
+        <ImageView
+            android:id="@+id/appn"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/cube"
+            android:layout_marginTop="15dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Blaze Account"
+            android:id="@+id/sign"
+            android:textColor="#424242"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"
+            android:layout_below="@+id/appn"
+            android:textSize="22sp"
+            android:layout_centerHorizontal="true" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_below="@id/sign"
+            android:id="@+id/desc"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#424242"
+                android:typeface="monospace"
+                android:text="Enter your name"
+                android:id="@+id/signtxt"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/name_text_input"
+            style="@style/MyTextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_marginTop="30dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            android:layout_below="@+id/desc"
+            android:layout_height="wrap_content"
+            >
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/fname"
+                android:typeface="monospace"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                style="@style/MyTextInputEditText"
+                android:maxLines="1"
+                android:hint="First Name" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/name_text_input_pass"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            style="@style/MyTextInputLayout"
+            android:layout_below="@+id/name_text_input"
+            android:layout_height="wrap_content"
+            >
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/lname"
+                android:typeface="monospace"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                style="@style/MyTextInputEditText"
+                android:maxLines="1"
+                android:hint="Last Name" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:theme="@style/AppTheme.Button"
+            android:text="Next"
+            android:textSize="14sp"
+
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/next"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/gblue"
+            android:background="@drawable/button_style"
+            android:textAllCaps="false"/>
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

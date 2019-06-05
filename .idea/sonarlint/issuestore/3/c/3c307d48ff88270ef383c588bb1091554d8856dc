@@ -1,0 +1,14 @@
+
+Jsquid:S1659%"'Declare "mPassword" on a separate line.(ü¦şüÿÿÿÿ8è„¬õ°-
+jsquid:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8è„¬õ°-
+csquid:S3027V"FPut single-quotes around '@' to use the faster "indexOf(char)" method.(á«¨G8è„¬õ°-
+Lsquid:S1199š"-Extract this nested code block into a method.(·üÑÑ8è„¬õ°-
+{squid:CallToDeprecatedMethodZ"GRemove this use of "setTimestampsInSnapshotsEnabled"; it is deprecated.(³™®åøÿÿÿÿ8è„¬õ°-
+Fsquid:S1604K"(Make this anonymous inner class a lambda(³Ö×•8è„¬õ°-
+Qsquid:S1659%".Declare "mConfirmPassword" on a separate line.(ü¦şüÿÿÿÿ8è„¬õ°-
+X"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(ºÖ8è„¬õ°-
+Fsquid:S1604b"(Make this anonymous inner class a lambda(¦¸›ä8è„¬õ°-
+Qsquid:S14811".Remove this unused "firstname" local variable.(º‡°ûÿÿÿÿ8ÌÑ‰±-
+Psquid:S14812"-Remove this unused "lastname" local variable.(‡–·Ùøÿÿÿÿ8ÌÑ‰±-
+_squid:S18542"<Remove this useless assignment to local variable "lastname".(‡–·Ùøÿÿÿÿ8ÌÑ‰±-
+`squid:S18541"=Remove this useless assignment to local variable "firstname".(º‡°ûÿÿÿÿ8ÌÑ‰±-

@@ -1,0 +1,25 @@
+
+csquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(öÛ‰’
+[squid:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(Ó”Šğÿÿÿÿÿ
+bsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(¿í¯^
+csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(şš×
+_squid:S1192“"GDefine a constant instead of duplicating this literal "weight" 4 times.(â»€ñ
+[squid:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(¡¶ÆÛüÿÿÿÿ
+Fsquid:S1066j"/Merge this if statement with the enclosing one.(Ãİúİ
+Usquid:S1155i">Use isEmpty() to check whether the collection is empty or not.(ˆ„õ’
+Gsquid:S1604£"(Make this anonymous inner class a lambda(ôÎ¿Ò8æúï•²-
+Jsquid:S1199Æ"-Extract this nested code block into a method.(¯©‹“ıÿÿÿÿ
+qsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(×İ‡—
+hsquid:S1301¸"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+wsquid:S1450W"[Remove the "mMapBoundary" field and declare it as a local variable in the relevant methods.(Ö”Æ«ÿÿÿÿÿ
+Gsquid:S1604Œ"(Make this anonymous inner class a lambda(şóïÙ8æúï•²-
+hsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(·äõüÿÿÿÿ
+Rsquid:S1141û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(şóïÙ
+V"squid:SwitchLastCaseIsDefaultCheck¸""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+Jsquid:S1199¹"-Extract this nested code block into a method.(óìˆ©ÿÿÿÿÿ
+osquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(™¿¦şÿÿÿÿ
+jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ã‡§³
+[squid:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(Ó”Šğÿÿÿÿÿ
+squid:S1450T"cRemove the "mUserRecyclerAdapter" field and declare it as a local variable in the relevant methods.(È ³şÿÿÿÿ
+Gsquid:S1604¿"(Make this anonymous inner class a lambda(âıùç8æúï•²-

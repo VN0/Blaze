@@ -1,0 +1,5 @@
+
+dsquid:S3027"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(§ˆ¼…8•¶†²-
+]squid:S1118":Add a private constructor to hide the implicit public one.(”Ø·¢üÿÿÿÿ8•¶†²-
+¥%squid:RedundantThrowsDeclarationCheck
+"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(³ä”ï8•¶†²-

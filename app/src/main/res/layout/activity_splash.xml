@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false"
+    tools:background="#fafafa">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:theme="@style/AppTheme.Button"
+        android:text="Get Routed"
+        android:textSize="14sp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/pixelbutton"
+        android:visibility="gone"
+        android:textColor="@color/white"
+        android:background="@drawable/button_style"
+        android:textAllCaps="false"/>
+
+    <com.tac.blaze.ui.ExtensiblePageIndicator
+        android:id="@+id/flexibleIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:indicatorRadius="3dp"
+        app:indicatorPadding="6dp"
+        app:indicatorActiveColor="@color/black"
+        app:indicatorInactiveColor="#d3d3d3"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>
+</FrameLayout>

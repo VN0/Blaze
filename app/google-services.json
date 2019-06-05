@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181914435106",
+    "firebase_url": "https://theblaze-c641c.firebaseio.com",
+    "project_id": "theblaze-c641c",
+    "storage_bucket": "theblaze-c641c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181914435106:android:a1d1ce9b8c3681aa",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181914435106-q8lcqrgg5jantvoofr4roqojkq20b7ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.googlemaps2018",
+            "certificate_hash": "260e306579d3cab7beb61b78d6391c5e64f0d8d2"
+          }
+        },
+        {
+          "client_id": "181914435106-tl50p6v6j124ai9r65lg8dsenc3ctnmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60v5UtOIOmhiQhtrbtYRlWgfTuAjrgC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181914435106-tl50p6v6j124ai9r65lg8dsenc3ctnmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

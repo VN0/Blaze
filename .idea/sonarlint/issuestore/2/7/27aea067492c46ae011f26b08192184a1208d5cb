@@ -1,0 +1,5 @@
+
+msquid:UselessImportCheck
+"BRemove this unused import 'android.view.animation.AnimationUtils'.(Žžµ¬8ˆÒ°Ë°-
+hsquid:UselessImportCheck	"=Remove this unused import 'android.view.animation.Animation'.(õò©²8ˆÒ°Ë°-
+…squid:UselessImportCheck"ZRemove this unused import 'fr.castorflex.android.circularprogressbar.CircularProgressBar'.(ÃÎ¥˜8ÀüŠñ°-

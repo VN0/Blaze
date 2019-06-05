@@ -1,0 +1,17 @@
+
+Gsquid:S1066Æ"/Merge this if statement with the enclosing one.(¸—öù
+Ksquid:S1604V"(Make this anonymous inner class a lambda(·ê§…ÿÿÿÿÿ8úİÖÁ±-
+Ksquid:S16597"4Declare "mUserListEventListener" on a separate line.(ğÃå«
+Jsquid:S1199Ò"-Extract this nested code block into a method.(à·Çìşÿÿÿÿ
+Esquid:S1199à"-Extract this nested code block into a method.(ÂÍŞÂ
+[squid:S1155¸">Use isEmpty() to check whether the collection is empty or not.(œ·Èïşÿÿÿÿ
+Gsquid:S1604Ú"(Make this anonymous inner class a lambda(³”‘–8úİÖÁ±-
+Ksquid:S1066["/Merge this if statement with the enclosing one.(úÛ´öøÿÿÿÿ
+Esquid:S1199Î"-Extract this nested code block into a method.(´³¡
+Jsquid:S1199Ö"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Ksquid:S1604n"(Make this anonymous inner class a lambda(›ÀŞ¡üÿÿÿÿ8úİÖÁ±-
+Jsquid:S1199Â"-Extract this nested code block into a method.(°íäÿÿÿÿÿ
+hsquid:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+Lsquid:S1604"(Make this anonymous inner class a lambda(›ÀŞ¡üÿÿÿÿ8úİÖÁ±-
+Gsquid:S1604µ"(Make this anonymous inner class a lambda(ë¡Ûû8úİÖÁ±-
+V"squid:SwitchLastCaseIsDefaultCheckß""Add a default case to this switch.(×“¾ñùÿÿÿÿ
